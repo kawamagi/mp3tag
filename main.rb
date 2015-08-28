@@ -2,7 +2,7 @@ require "mp3info"
 require "byebug"
 require 'rchardet'
 
-class Main
+class Main  
 
   def initialize(param)
     base = "H:\\Music\\עברי\\א-ב-ג\\".encode('utf-8')
